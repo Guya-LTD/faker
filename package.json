@@ -1,0 +1,23 @@
+{
+  "name": "faker",
+  "version": "1.0.0",
+  "description": "Dummy datasets",
+  "main": "index.js",
+  "scripts": {
+    "generate:users": "node user_generator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guya-LTD/faker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guya-LTD/faker/issues"
+  },
+  "homepage": "https://github.com/Guya-LTD/faker#readme",
+  "dependencies": {
+    "neat-csv": "^5.2.0"
+  }
+}

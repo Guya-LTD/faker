@@ -1,0 +1,5972 @@
+[
+ {
+   "gender": "m",
+   "in_en": "Aron",
+   "in_am": "አሮን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abdeel",
+   "in_am": "ዐብድኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abel",
+   "in_am": "አቤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abida",
+   "in_am": "አቢዳጽ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abidan",
+   "in_am": "አቢዳን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Abiel",
+   "in_am": "አቢኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abiezer",
+   "in_am": "አቢአዝር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abigail",
+   "in_am": "አቢግያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Abihail",
+   "in_am": "አቢካኢል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Abijah",
+   "in_am": "አቢያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abiram",
+   "in_am": "አቤሮን"
+ },
+ {
+   "gender": "NA",
+   "in_en": "Abishag",
+   "in_am": "አቢሳን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Abishai",
+   "in_am": "አቢሳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Abishua",
+   "in_am": "አቢሱ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Abital",
+   "in_am": "አቢጣል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abner",
+   "in_am": "አበኔር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abraham",
+   "in_am": "አብርሃም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abram",
+   "in_am": "አብራም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Absalom",
+   "in_am": "አቤሴሎም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Adah",
+   "in_am": "ዓዳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Adalia",
+   "in_am": "በርያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Adam",
+   "in_am": "አዳም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Addi",
+   "in_am": "ሐዲ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Adiel",
+   "in_am": "ዓዲዔል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Adin",
+   "in_am": "ዓዲን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Adina",
+   "in_am": "አዲና"
+ },
+ {
+   "gender": "m",
+   "in_en": "Adnah",
+   "in_am": "ዓድና"
+ },
+ {
+   "gender": "m",
+   "in_en": "Adoni-bezek",
+   "in_am": "አዶኒቤዜቅ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Adonijah",
+   "in_am": "አዶንያስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Adriel",
+   "in_am": "ኤስድሪኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Aeneas",
+   "in_am": "ኤንያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ahab",
+   "in_am": "አክዓብ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ahlai",
+   "in_am": "አሕላይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Akim",
+   "in_am": "አኪም"
+ },
+ {
+   "gender": "e",
+   "in_en": "Alemeth",
+   "in_am": "ዓሌሜት"
+ },
+ {
+   "gender": "e",
+   "in_en": "Alexander",
+   "in_am": "አሌክስንድሮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Almodad",
+   "in_am": "ኤልሞዳድ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Alvan",
+   "in_am": "ዓልዋን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Amariah",
+   "in_am": "አማርያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Amasiah",
+   "in_am": "ዓማስያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Amaziah",
+   "in_am": "አሜስያስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ammiel",
+   "in_am": "ዓሚኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Amos",
+   "in_am": "አሞጽ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Amoz",
+   "in_am": "አሞጽ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Amraphel",
+   "in_am": "አምራፌል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Amzi",
+   "in_am": "አማሲ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Anah",
+   "in_am": "ዓና"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ananiah",
+   "in_am": "ሓናንያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ananias",
+   "in_am": "ሓናንያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Andrew",
+   "in_am": "አንድርያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Andronicus",
+   "in_am": "አንዲራኒቆ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Anna",
+   "in_am": "ሓና"
+ },
+ {
+   "gender": "m",
+   "in_en": "Apollos",
+   "in_am": "አጵሎስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Apphia",
+   "in_am": "አፍብያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Aquila",
+   "in_am": "አቂላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ardon",
+   "in_am": "አርዶን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Areli",
+   "in_am": "አርኤሊ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ariel",
+   "in_am": "አርኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Armoni",
+   "in_am": "ሄርሞን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Artemas",
+   "in_am": "አርጢሞን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Artemis",
+   "in_am": "አርጤምስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Asa",
+   "in_am": "አሳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Asaph",
+   "in_am": "አሳፍ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Asarel",
+   "in_am": "አሣርኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Asarelah",
+   "in_am": "አሽርኤላ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Ascah",
+   "in_am": "ዓክሳ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Asenath",
+   "in_am": "አስናት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ashbea",
+   "in_am": "አሽቤዓ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Asher",
+   "in_am": "አሴር"
+ },
+ {
+   "gender": "f",
+   "in_en": "Ashtoreth",
+   "in_am": "አስታሮት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Ashtoreth",
+   "in_am": "ምዕራፍ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Asiel",
+   "in_am": "ዓሢኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Asriel",
+   "in_am": "አሥሪኤል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Atarah",
+   "in_am": "ዓጣራ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Athaliah",
+   "in_am": "ጎቶልያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Augustus",
+   "in_am": "አውግስጦስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Azaliah",
+   "in_am": "ኤዜልያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Azaniah",
+   "in_am": "አዛንያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Azarael",
+   "in_am": "ኤዝርኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Azareel",
+   "in_am": "አዛርኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Azaria",
+   "in_am": "ዓዛርያስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Azaziah",
+   "in_am": "ዓዛዝያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Azel",
+   "in_am": "ኤሴል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Aziel",
+   "in_am": "ዓዝዔል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Azriel",
+   "in_am": "ዓዝርኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Azzan",
+   "in_am": "ሖዛ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abate",
+   "in_am": "አባተ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abay",
+   "in_am": "አባይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abayneh",
+   "in_am": "አባይነህ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abdela",
+   "in_am": "አብደላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abdi",
+   "in_am": "አብዲ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abdu",
+   "in_am": "አብዱ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abdul",
+   "in_am": "አብዱል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abdulahi",
+   "in_am": "አብዱላሂ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abebe",
+   "in_am": "አበበ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abegaz",
+   "in_am": "አበጋዝ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abel",
+   "in_am": "አቤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abenet",
+   "in_am": "አብነት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abenezer",
+   "in_am": "አቤነዘር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abera",
+   "in_am": "አበራ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abiy",
+   "in_am": "አብይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Abubeker",
+   "in_am": "አቡበከር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Adane",
+   "in_am": "አዳነ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Addisu",
+   "in_am": "አዲሱ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Admasu",
+   "in_am": "አድማሱ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Adugna",
+   "in_am": "አዱኛ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Afework",
+   "in_am": "አፍወርቅ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ahmed",
+   "in_am": "አህመድ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Akalu",
+   "in_am": "አካሉ\t"
+ },
+ {
+   "gender": "m",
+   "in_en": "Aklilu",
+   "in_am": "አክሊሉ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Alazar",
+   "in_am": "አላዛር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Alebachew",
+   "in_am": "አለባቸው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Alemayehu",
+   "in_am": "አለምአየሁ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Alemu",
+   "in_am": "አለሙ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Alex",
+   "in_am": "አሌክስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Alex",
+   "in_am": "ዓሊ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Alula",
+   "in_am": "አሉላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Aman",
+   "in_am": "አማን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Amanuel",
+   "in_am": "አማኑኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Amare",
+   "in_am": "አማረ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Amha",
+   "in_am": "አምሃ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Amin",
+   "in_am": "አሚን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Andargachew",
+   "in_am": "አንዳርጋቸው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Andinet",
+   "in_am": "አንድነት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Andualem",
+   "in_am": "አንዱአለም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Anteneh",
+   "in_am": "አንተነህ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Argaw",
+   "in_am": "አርጋው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Aron",
+   "in_am": "አሮን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Aschalew",
+   "in_am": "አስቻለው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Asefa",
+   "in_am": "አሰፋ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Asfaw",
+   "in_am": "አስፋው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Asheber",
+   "in_am": "አሸብር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ashenafi",
+   "in_am": "አሸናፊ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Asmamaw",
+   "in_am": "አስማማው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Asrat",
+   "in_am": "አስራት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Assefa",
+   "in_am": "አሰፋ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Atinafu",
+   "in_am": "አጥናፉ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Atlabachew",
+   "in_am": "አጥላባችው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ayele",
+   "in_am": "አየለ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Abaynesh",
+   "in_am": "አባይነሽ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Abeba",
+   "in_am": "አበባ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Abebawork",
+   "in_am": "አበባወርቅ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Abebaye",
+   "in_am": "አበባዬ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Abebech",
+   "in_am": "አበበች"
+ },
+ {
+   "gender": "f",
+   "in_en": "Abenet",
+   "in_am": "አብነት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Aberash",
+   "in_am": "አበራሽ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Abezu",
+   "in_am": "አበዙ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Abigail",
+   "in_am": "አቢጋኤል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Abigia",
+   "in_am": "አቢጊያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Abiot",
+   "in_am": "አቢዮት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Adanech",
+   "in_am": "አዳነች"
+ },
+ {
+   "gender": "f",
+   "in_en": "Addis",
+   "in_am": "አዲስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Adey",
+   "in_am": "አደይ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Aida",
+   "in_am": "አይዳ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Aklil",
+   "in_am": "አክሊል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Aksum",
+   "in_am": "አክሱም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Alem",
+   "in_am": "አለም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Alemitu",
+   "in_am": "አለሚቱ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Alemnesh",
+   "in_am": "አለምነሽ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Alemtsehay",
+   "in_am": "አለምፀሃይ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Algansh",
+   "in_am": "አልጋነሽ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Almaz",
+   "in_am": "አልማዝ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Amarech",
+   "in_am": "አማረች"
+ },
+ {
+   "gender": "f",
+   "in_en": "Amelework",
+   "in_am": "አመለወርቅ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Amsale",
+   "in_am": "አምሳለ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Amsalework",
+   "in_am": "አምሳለወርቅ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Amsalu",
+   "in_am": "አምሳሉ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Arssema",
+   "in_am": "አርሴማ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Asegedech",
+   "in_am": "አሰገደች"
+ },
+ {
+   "gender": "f",
+   "in_en": "Asnakech",
+   "in_am": "አስናቀች"
+ },
+ {
+   "gender": "f",
+   "in_en": "Aster",
+   "in_am": "አስቴር"
+ },
+ {
+   "gender": "f",
+   "in_en": "Atsede",
+   "in_am": "አጸደ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Ayana",
+   "in_am": "አያና"
+ },
+ {
+   "gender": "f",
+   "in_en": "Ayelech",
+   "in_am": "አየለች"
+ },
+ {
+   "gender": "f",
+   "in_en": "Aynalem",
+   "in_am": "አይናለም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Azalech",
+   "in_am": "አዛለች"
+ },
+ {
+   "gender": "f",
+   "in_en": "Azeb",
+   "in_am": "አዜብ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Barakel",
+   "in_am": "ባርክኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bariah",
+   "in_am": "ባርያሕ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Barnabas",
+   "in_am": "በርናባስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bartholomew",
+   "in_am": "በርተሎሜዎስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bartimaeus",
+   "in_am": "በርጤሜዎስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Barush",
+   "in_am": "ባሮክ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Basemath",
+   "in_am": "ቤሴሞት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Bathsheba",
+   "in_am": "ቤርሳቤህ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Bebai",
+   "in_am": "ቤባይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bedeiah",
+   "in_am": "ቤድያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Bathshua",
+   "in_am": "ቤርሳቤህ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Beker",
+   "in_am": "ቤኬር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ben",
+   "in_am": "ቤን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Benaiah",
+   "in_am": "በናያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Benjamin",
+   "in_am": "ብንያም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bera",
+   "in_am": "ባላ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Beraiah",
+   "in_am": "ብራያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Berekiah",
+   "in_am": "በራክያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Beri",
+   "in_am": "ቤሪ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Bernice",
+   "in_am": "በርኒቄ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Bethuel",
+   "in_am": "ባቱኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bezai",
+   "in_am": "ቤሳይ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Bilhah",
+   "in_am": "ባላ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Bilshan",
+   "in_am": "በላሳን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Binea",
+   "in_am": "ቢንዓ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Bithiah",
+   "in_am": "ቢትያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Boaz",
+   "in_am": "ቦዔዝ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bohan",
+   "in_am": "ቦሀን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bukkiah",
+   "in_am": "ቡቅያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bahiru",
+   "in_am": "ባህሩ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Befekadu",
+   "in_am": "በፈቃዱ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Behailu",
+   "in_am": "በሃይሉ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bekele",
+   "in_am": "በቀለ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bekila",
+   "in_am": "በቂላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Belachew",
+   "in_am": "በላቸው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Belay",
+   "in_am": "በላይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Belayneh",
+   "in_am": "በላይነህ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Belete",
+   "in_am": "በለጠ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bemnet",
+   "in_am": "በእምነት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bereket",
+   "in_am": "በረከት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Berhanu",
+   "in_am": "ብራሃኑ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Berhe",
+   "in_am": "በርሄ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Besufekad",
+   "in_am": "በሱፈቃድ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Beteab",
+   "in_am": "ቤተአብ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Beyene",
+   "in_am": "በየነ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Binyam",
+   "in_am": "ቢኒያም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Biruk",
+   "in_am": "ብሩክ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Bisrat",
+   "in_am": "ብስራት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Bekelech",
+   "in_am": "በቀለች"
+ },
+ {
+   "gender": "f",
+   "in_en": "Belaynesh",
+   "in_am": "በላይነሽ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Beletshachew",
+   "in_am": "በለጥሻቸው"
+ },
+ {
+   "gender": "f",
+   "in_en": "Beletu",
+   "in_am": "በለጡ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Bemnet",
+   "in_am": "በእምነት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Betel",
+   "in_am": "ቤተል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Betelhem",
+   "in_am": "ቤትሄሌም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Betsega",
+   "in_am": "በጸጋ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Beza",
+   "in_am": "ቤዛ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Bezawit",
+   "in_am": "ቤዛዊት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Biftu",
+   "in_am": "ቢፍቱ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Bilen",
+   "in_am": "ብሌን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Birtukan",
+   "in_am": "ብርቱካን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Bizunesh",
+   "in_am": "ብዙነሽ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Bruktawit",
+   "in_am": "ብሩክታዊት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Caesar",
+   "in_am": "ቄሣር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Cain",
+   "in_am": "ቃየን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Caleb",
+   "in_am": "ካሌብ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Canaan",
+   "in_am": "ከነዓን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Candace",
+   "in_am": "ህንደኬ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Carmi",
+   "in_am": "ከርሚ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Carshena",
+   "in_am": "እርቄስዮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Cephas",
+   "in_am": "ኬፋ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Chloe",
+   "in_am": "ቀሎዔ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Claudia",
+   "in_am": "ቅላውዲያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Claudius",
+   "in_am": "ቀላውዴዎስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Clement",
+   "in_am": "ቀሌምጦስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Cleopas",
+   "in_am": "ቀለዮጳ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Conaniah",
+   "in_am": "ኮናንያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Cornelius",
+   "in_am": "ቆርኔሌዎስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Cosam",
+   "in_am": "ቆሳም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Cush",
+   "in_am": "ኩሽ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Cushi",
+   "in_am": "ኩሲ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Cyrenius",
+   "in_am": "ቄሬኔዎስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Cyrus",
+   "in_am": "ቂሮስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Chaltu",
+   "in_am": "ጫልቱ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Caleb",
+   "in_am": "ካሌብ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Chanyalew",
+   "in_am": "ጫንያለው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Chebude",
+   "in_am": "ጨቡዴ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Cherenet",
+   "in_am": "ቸርነት"
+ },
+ {
+   "gender": "e",
+   "in_en": "Dalphon",
+   "in_am": "ደልፎን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Dan",
+   "in_am": "ዳን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Daniel",
+   "in_am": "ዳንኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Dara",
+   "in_am": "ደራል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Darius",
+   "in_am": "ዳርዮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Dathan",
+   "in_am": "ዳታን"
+ },
+ {
+   "gender": "m",
+   "in_en": "David",
+   "in_am": "ዳዊት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Deborah",
+   "in_am": "ዲቦራ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Dedan",
+   "in_am": "ድዳን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Delilah",
+   "in_am": "ደሊላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Demetrius",
+   "in_am": "ድሜጥሮስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Dibri",
+   "in_am": "ደብራይ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Dinah",
+   "in_am": "ዲና"
+ },
+ {
+   "gender": "f",
+   "in_en": "Dorcas",
+   "in_am": "ዶርቃ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Drusilla",
+   "in_am": "ድሩሲላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Dumah",
+   "in_am": "ዱማ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Dagim",
+   "in_am": "ዳግም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Dagmawi",
+   "in_am": "ዳግማዊ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Dagnachew",
+   "in_am": "ዳኛቸው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Daniel",
+   "in_am": "ዳኔል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Dawit",
+   "in_am": "ዳዊት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Debebe",
+   "in_am": "ደበበ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Dejen",
+   "in_am": "ደጀን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Demeke",
+   "in_am": "ደመቀ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Demerew",
+   "in_am": "ደምረው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Demissie",
+   "in_am": "ደምሴ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Dereje",
+   "in_am": "ደረጄ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Desalegn",
+   "in_am": "ደስአለኝ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Desta",
+   "in_am": "ደስታ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Dibaba",
+   "in_am": "ዲባባ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Dilnesaw",
+   "in_am": "ድልነሳው"
+ },
+ {
+   "gender": "f",
+   "in_en": "Dagmawit",
+   "in_am": "ዳግማዊት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Deborah",
+   "in_am": "ዴቦራ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Debritu",
+   "in_am": "ደብሪቱ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Derartu",
+   "in_am": "ደራርቱ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Desta",
+   "in_am": "ደስታ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Dinknesh",
+   "in_am": "ድንቅነሽ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ebenezer",
+   "in_am": "አቤንኤዘር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eber",
+   "in_am": "ዔቦር"
+ },
+ {
+   "gender": "e",
+   "in_en": "Eden",
+   "in_am": "ዔድን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ela",
+   "in_am": "ኤላ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Elah",
+   "in_am": "ኤላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Elam",
+   "in_am": "ኤላም"
+ },
+ {
+   "gender": "e",
+   "in_en": "Elasah",
+   "in_am": "ኤልዓሣ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Elberith",
+   "in_am": "ኤልብሪት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eldaah",
+   "in_am": "ኤልዳዓ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eldad",
+   "in_am": "ኤልዳድ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Elead",
+   "in_am": "ኤልዓድ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Eleadah",
+   "in_am": "ኤልዓዳ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eleazar",
+   "in_am": "አልዓዛር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Elhanan",
+   "in_am": "ኤልያናን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eli",
+   "in_am": "ዔሊ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eliab",
+   "in_am": "ኤልያብ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eliada",
+   "in_am": "ኤሊዳሄ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eliam",
+   "in_am": "ኤልያብ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Elidad",
+   "in_am": "ኤልዳድ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Eliel",
+   "in_am": "ኤሊኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Eliezer",
+   "in_am": "ኤሊዔዘር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Elijah",
+   "in_am": "ኤልያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eliphaz",
+   "in_am": "ኤልፋዝ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Elisha",
+   "in_am": "ኤልሳፅ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Elishama",
+   "in_am": "ኤሊሳማ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Elisheba",
+   "in_am": "ኤልሳቤጥ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Elizabeth",
+   "in_am": "ኤልሳቤጥ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Elizur",
+   "in_am": "ኤሊሱር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Elkanah",
+   "in_am": "ሕልቃና"
+ },
+ {
+   "gender": "m",
+   "in_en": "Elnathan",
+   "in_am": "ኤልናታን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Elon",
+   "in_am": "ኤሎን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Enoch",
+   "in_am": "ሄኖሕ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Enosh",
+   "in_am": "ሄኖስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ephraim",
+   "in_am": "ኤፍሬም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ephron",
+   "in_am": "ኤፍሮን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Eran",
+   "in_am": "ዔዴን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Eri",
+   "in_am": "ዔሪ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Esau",
+   "in_am": "ዔሳው"
+ },
+ {
+   "gender": "e",
+   "in_en": "Eshban",
+   "in_am": "ኤስባን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Eshton",
+   "in_am": "ኤሽቶን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Esli",
+   "in_am": "ኤሲሊ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Esther",
+   "in_am": "አስቴር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ethan",
+   "in_am": "ኤታን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Eunice",
+   "in_am": "ኤውንቄ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Euodia",
+   "in_am": "ኤዎድያን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Eve",
+   "in_am": "ሔዋን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Evi",
+   "in_am": "ኤዊ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ezbai",
+   "in_am": "ኤዝባይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ezekiel",
+   "in_am": "ሕዝቅኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ezra",
+   "in_am": "ዕዝራ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ezrah",
+   "in_am": "ዕዝራ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ezri",
+   "in_am": "ዔዝሪ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Efrem",
+   "in_am": "ኤፍሬም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Elias",
+   "in_am": "ኤሊያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Endale",
+   "in_am": "እንዳለ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Endalkachew",
+   "in_am": "እንዳልካቸው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Endrias",
+   "in_am": "እንድርያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ermias",
+   "in_am": "ኤርሚያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eshete",
+   "in_am": "እሸቴ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eshetu",
+   "in_am": "እሸቱ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eskinder",
+   "in_am": "እስክንድር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Estifanos",
+   "in_am": "እስጢፋኖስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eyasu",
+   "in_am": "እያሱ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Eyobel",
+   "in_am": "እዮቤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ezana",
+   "in_am": "ኢዛና"
+ },
+ {
+   "gender": "f",
+   "in_en": "Eden",
+   "in_am": "ኤደን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Edom",
+   "in_am": "ኤዶም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Ejigayehu",
+   "in_am": "እጅግአየሁ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Elfnesh",
+   "in_am": "እልፍነሽ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Elizabeth",
+   "in_am": "ኤሊዛቤት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Elsabeth",
+   "in_am": "ኤልሳቤት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Elshaday",
+   "in_am": "ኤልሻዳይ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Eman",
+   "in_am": "ኢማን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Emebet",
+   "in_am": "እመቤት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Eskedar",
+   "in_am": "እስከዳር"
+ },
+ {
+   "gender": "f",
+   "in_en": "Etenesh",
+   "in_am": "እቴነሽ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Etsegenet",
+   "in_am": "ፅገነት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Eyerus",
+   "in_am": "እየሩስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Eyerusalem",
+   "in_am": "እየሩስአለም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Felix",
+   "in_am": "ፊልክስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Festus",
+   "in_am": "ፊስጦስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Fasil",
+   "in_am": "ፋሲል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Fedlu",
+   "in_am": "ፈድሉ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Fegegta",
+   "in_am": "ፈገግታ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Fekre-Mariam",
+   "in_am": "ፍቅረ-ማርያም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Fekre-Selasie",
+   "in_am": "ፍቅረ-ስላሴ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Fikadu",
+   "in_am": "ፍቃዱ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Fikremariam",
+   "in_am": "ፍቅረማርያም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Fikru",
+   "in_am": "ፍቅሩ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Fiseha",
+   "in_am": "ፍሰሀ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Fistum",
+   "in_am": "ፍፁም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Frezer",
+   "in_am": "ፍሬዘር"
+ },
+ {
+   "gender": "f",
+   "in_en": "Fasika",
+   "in_am": "ፋሲካ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Feker",
+   "in_am": "ፍቅር"
+ },
+ {
+   "gender": "f",
+   "in_en": "Fekerte",
+   "in_am": "ፍቅርተ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Feven",
+   "in_am": "ፌቨን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Freyhiwot",
+   "in_am": "ፍሬሂወት"
+ },
+ {
+   "gender": "e",
+   "in_en": "Gabriel",
+   "in_am": "ገብርኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Gaddiel",
+   "in_am": "ጉዲኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gaius",
+   "in_am": "ጋይዮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gamaliel",
+   "in_am": "ገማልኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gedaliah",
+   "in_am": "ጎዶልያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gehazi",
+   "in_am": "ግያዝ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Gemalli",
+   "in_am": "ገማሊ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gemariah",
+   "in_am": "ገማርያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gershom",
+   "in_am": "ጌርሳም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gershon",
+   "in_am": "ጌድሶን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Geshem",
+   "in_am": "ጌሳም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gideon",
+   "in_am": "ጌዴዎን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gideoni",
+   "in_am": "ጋዴዮን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Goliath",
+   "in_am": "ጎልያድ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Gomer",
+   "in_am": "ጎሜር"
+ },
+ {
+   "gender": "f",
+   "in_en": "Gelila",
+   "in_am": "ገሊላ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Genet",
+   "in_am": "ገነት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gashaw",
+   "in_am": "ጋሻው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gebre-Egziabher",
+   "in_am": "ገብረ-እግዚያቤር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gebre-Giorgis",
+   "in_am": "ገብረ-ጊዮርጊስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gebre-Mariam",
+   "in_am": "ገብረ-ማርያም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gebre-Meskel",
+   "in_am": "ገብረ-መስቀል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gebre-Micheal",
+   "in_am": "ገበረ-ሚኬኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gebre-Selassie",
+   "in_am": "ገብረ-ስላሴ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gedion",
+   "in_am": "ጌዲኦን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gemechu",
+   "in_am": "ገመቹ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Getachew",
+   "in_am": "ጌታቸው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Getahun",
+   "in_am": "ጌታሁን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Getnet",
+   "in_am": "ጌትነት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gezahegn",
+   "in_am": "ገዛኸኝ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Girma",
+   "in_am": "ግርማ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Girmachew",
+   "in_am": "ግርማቸው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Girum",
+   "in_am": "ግሩም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gizachew",
+   "in_am": "ግዛቸው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Gosaye",
+   "in_am": "ጎሳዬ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hadad",
+   "in_am": "ኩዳን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hadoram",
+   "in_am": "ሀዶራም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hagar",
+   "in_am": "አጋር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Haggi",
+   "in_am": "ሓጊ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Haggiah",
+   "in_am": "ሐግያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ham",
+   "in_am": "ካም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Haman",
+   "in_am": "ሐማን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hamutal",
+   "in_am": "አሚጣል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Hanameel",
+   "in_am": "አናምኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hanan",
+   "in_am": "ሐናን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hananiah",
+   "in_am": "ሐናንያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Haniel",
+   "in_am": "አኒኤል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hannah",
+   "in_am": "ሐና"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hanoch",
+   "in_am": "ሄኖኅ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hanun",
+   "in_am": "ሐኖን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Haran",
+   "in_am": "ሐራን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Havilah",
+   "in_am": "ኤውሳጥ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hazaiah",
+   "in_am": "ፆዛያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Haziel",
+   "in_am": "ሐዝኤል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Helah",
+   "in_am": "ሔላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Heldai",
+   "in_am": "ሔልዳይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Helez",
+   "in_am": "ኬሌስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Helkai",
+   "in_am": "ሔልቃይ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Helon",
+   "in_am": "ኬሎን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Henadad",
+   "in_am": "ኤንሐዳድ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Heresh",
+   "in_am": "ኤሬስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hermes",
+   "in_am": "ሄርሜን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Herod",
+   "in_am": "ሄሮድ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Herodias",
+   "in_am": "ሄሮድያዳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Heth",
+   "in_am": "ኬጢ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hezekiah",
+   "in_am": "ሕዝቅያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hezion",
+   "in_am": "አዚን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Hezrai",
+   "in_am": "ሐጽሮ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hezron",
+   "in_am": "አስሮን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Hilkiah",
+   "in_am": "ኬልቅያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hirah",
+   "in_am": "ኤራስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hiram",
+   "in_am": "ኪራም"
+ },
+ {
+   "gender": "e",
+   "in_en": "Hizki",
+   "in_am": "ሕዝቂ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hizkiah",
+   "in_am": "ሕዝቅያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hodaviah",
+   "in_am": "ሆዳይዋ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hodesh",
+   "in_am": "ሖዴሽ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Hodiah",
+   "in_am": "ሆዲያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hodijah",
+   "in_am": "ሆዲያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hoglah",
+   "in_am": "ዔግላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hosah",
+   "in_am": "ሖሳ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hosea",
+   "in_am": "ሆሴፅ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Hoshama",
+   "in_am": "ሆሻማ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hothan",
+   "in_am": "ኮታም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hur",
+   "in_am": "ሖር"
+ },
+ {
+   "gender": "e",
+   "in_en": "Hushai",
+   "in_am": "ኩሲ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Hushim",
+   "in_am": "ሑሺም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Habtamu",
+   "in_am": "ሀብታሙ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Habte",
+   "in_am": "ሀብቴ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hagos",
+   "in_am": "ሀጎስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Haile",
+   "in_am": "ሃይሌ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Haile-Mariam",
+   "in_am": "ኃይለ-ማርያም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Haile-Selassie",
+   "in_am": "ኃይለ-ስላሴ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hailu",
+   "in_am": "ሃይሌ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hassen",
+   "in_am": "ሀሰን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Henok",
+   "in_am": "ሄኖክ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Hiruy",
+   "in_am": "ህሩይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Husein",
+   "in_am": "ሁሴን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Haimanot",
+   "in_am": "ሀይማኖት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hamelmal",
+   "in_am": "ሀመልማል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hamere",
+   "in_am": "ሀመረ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hanan",
+   "in_am": "ሀናን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hanna",
+   "in_am": "ሀና"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hareg",
+   "in_am": "ሀረግ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hayat",
+   "in_am": "ሀያት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Helen",
+   "in_am": "ሄለን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Helina",
+   "in_am": "ህሊና"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hermela",
+   "in_am": "ሄርሜላ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hewan",
+   "in_am": "ሄዋን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hirut",
+   "in_am": "ሂሩት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Hiwot",
+   "in_am": "ሂወት"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ibri",
+   "in_am": "ዔብሪ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ibzan",
+   "in_am": "ኢብጻን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Imlah",
+   "in_am": "ይምላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Immanuel",
+   "in_am": "አማኑኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Imna",
+   "in_am": "ይምና"
+ },
+ {
+   "gender": "e",
+   "in_en": "Imri",
+   "in_am": "እምሪ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ira",
+   "in_am": "ኢራስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Irad",
+   "in_am": "ጋይዳድ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Iram",
+   "in_am": "ኢራም"
+ },
+ {
+   "gender": "e",
+   "in_en": "Irijah",
+   "in_am": "የሪያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Isaac",
+   "in_am": "ይስሐቅ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Isaiah",
+   "in_am": "ኢሳይያስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Iscah",
+   "in_am": "ዮስካ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ishbah",
+   "in_am": "ይሽባ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ishbak",
+   "in_am": "የስቦቅ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ishbi-Benob",
+   "in_am": "ይሽቢብኖብ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ishi",
+   "in_am": "ይሽኢ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ishiah",
+   "in_am": "ይሺያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ishijah",
+   "in_am": "ይሺያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ishmael",
+   "in_am": "እስማኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ishmaiah",
+   "in_am": "የሽማዓ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ishmerai",
+   "in_am": "ይሽምራይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ishod",
+   "in_am": "ኢሱድ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ishpah",
+   "in_am": "ይሽጳ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ishpan",
+   "in_am": "ይሽጳን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ishvah",
+   "in_am": "የሱዋ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ishvi",
+   "in_am": "የሱዊ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ismakiah",
+   "in_am": "ሰማኪያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ithai",
+   "in_am": "ኤታይ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ithamar",
+   "in_am": "ኢታምር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ithiel",
+   "in_am": "ኢቲኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ithmah",
+   "in_am": "ይትማ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ithran",
+   "in_am": "ይትራን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ithream",
+   "in_am": "ይትኃም"
+ },
+ {
+   "gender": "e",
+   "in_en": "Izhar",
+   "in_am": "ይስዓር"
+ },
+ {
+   "gender": "e",
+   "in_en": "Izrahiah",
+   "in_am": "ይዝረሕያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Inku",
+   "in_am": "እንቁ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ibrahim",
+   "in_am": "ኢብራሂም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Isayas",
+   "in_am": "ኢሳያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Israel",
+   "in_am": "እስራኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Issak",
+   "in_am": "ኢሳቅ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jaalah",
+   "in_am": "የፅላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jaasu",
+   "in_am": "የፅሡ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jaazaniah",
+   "in_am": "ያእዛንያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jaaziah",
+   "in_am": "ያዝያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jabal",
+   "in_am": "ያባል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jabesh",
+   "in_am": "ኢያቤስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jabez",
+   "in_am": "ያቤጽ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jabin",
+   "in_am": "ኢያቢስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jacob",
+   "in_am": "ያዕቆብ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jada",
+   "in_am": "ያዳ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jadon",
+   "in_am": "ያዶን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Jael",
+   "in_am": "ኢያዔል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jahath",
+   "in_am": "ላሃድ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jahaziah",
+   "in_am": "የሕዝያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jahaziel",
+   "in_am": "ያሕዚኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jahdai",
+   "in_am": "ያህዳይ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jahdiel",
+   "in_am": "ኢየድኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jahleel",
+   "in_am": "ያሕሌል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jahmai",
+   "in_am": "የሕማይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jahziel",
+   "in_am": "ያሕጽኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jair",
+   "in_am": "ኢያዕር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jakim",
+   "in_am": "ያቂም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jakin",
+   "in_am": "ያኪን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jalam",
+   "in_am": "የዕላም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jalon",
+   "in_am": "ያሎን"
+ },
+ {
+   "gender": "m",
+   "in_en": "James",
+   "in_am": "ያዕቆብ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Janna",
+   "in_am": "ዮና"
+ },
+ {
+   "gender": "m",
+   "in_en": "Japheth",
+   "in_am": "ያፌት"
+ },
+ {
+   "gender": "e",
+   "in_en": "Japhia",
+   "in_am": "ያፊዓ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jarah",
+   "in_am": "የዕራ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jared",
+   "in_am": "ያሬድ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jaresiah",
+   "in_am": "ያሬሽያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jarha",
+   "in_am": "ኢዮሄል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jarib",
+   "in_am": "ያሪብ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jaroah",
+   "in_am": "ኢዳይ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jashen",
+   "in_am": "አሳን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jasiel",
+   "in_am": "ዕሢኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jason",
+   "in_am": "ኢያሶን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jathniel",
+   "in_am": "ያዲኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Javan",
+   "in_am": "ያዋን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jaziz",
+   "in_am": "ያዚዝ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Jecoliah",
+   "in_am": "ይኮልያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jeconiah",
+   "in_am": "ዮአኪን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jedaiah",
+   "in_am": "የይዳያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Jedidah",
+   "in_am": "ይዲዳ"
+ },
+ {
+   "gender": "m",
+   "in_en": "jedidiah",
+   "in_am": "ይዲድያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jehiel",
+   "in_am": "ያዝኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jehieli",
+   "in_am": "ይሒኤሊ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Jehoaddin",
+   "in_am": "ዮዓዳን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jehoshaphat",
+   "in_am": "ኢዮሣፍጥ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Jehosheba",
+   "in_am": "ዮሳቤት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jehovah",
+   "in_am": "ያህዌ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jeiel",
+   "in_am": "ኢዮኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jekamiah",
+   "in_am": "ይቃምያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Jemima",
+   "in_am": "ይሚማ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jemuel",
+   "in_am": "ይሙኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jerah",
+   "in_am": "ያራሕ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jerahmeel",
+   "in_am": "ይረሕምኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jered",
+   "in_am": "ዬሬድ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jeremiah",
+   "in_am": "ኤርምያስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jeriah",
+   "in_am": "ይሪያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jeribai",
+   "in_am": "ይሪባይ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jeriel",
+   "in_am": "ይሪኤል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Jerioth",
+   "in_am": "ይሪዖት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Jerusha",
+   "in_am": "ኢየሩሳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jeshaiah",
+   "in_am": "የሻያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jeshua",
+   "in_am": "ኢያሱ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jesiah",
+   "in_am": "ይሺያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jesimiel",
+   "in_am": "ዪሲምኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jesse",
+   "in_am": "እሲይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jesus",
+   "in_am": "ኢየሱስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jether",
+   "in_am": "ዬቴር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jethro",
+   "in_am": "ዮቶር"
+ },
+ {
+   "gender": "f",
+   "in_en": "Jezebel",
+   "in_am": "ኤልዛቤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jeziah",
+   "in_am": "ያዝይ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jeziel",
+   "in_am": "ይዝኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jezreel",
+   "in_am": "ኢያዝራኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Joab",
+   "in_am": "ኢዮአብ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Joah",
+   "in_am": "ዮአስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Joanna",
+   "in_am": "ዮሐና"
+ },
+ {
+   "gender": "m",
+   "in_en": "Joash",
+   "in_am": "ኢዮእስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jobe",
+   "in_am": "ኢዮብ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Joda",
+   "in_am": "ዮዳ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Joed",
+   "in_am": "ዮእድ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Joel",
+   "in_am": "ኢዮኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Joelah",
+   "in_am": "የኤላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Johanan",
+   "in_am": "ዮሐናን"
+ },
+ {
+   "gender": "m",
+   "in_en": "John",
+   "in_am": "ዮሐንስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Joiada",
+   "in_am": "ዮዳሄ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jonah",
+   "in_am": "ዮናስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jonam",
+   "in_am": "ዮናን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jonas",
+   "in_am": "ዮናስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jonathan",
+   "in_am": "ዮናታን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jorai",
+   "in_am": "ዮራይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Joram",
+   "in_am": "አዶራም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jorim",
+   "in_am": "ዮራም"
+ },
+ {
+   "gender": "e",
+   "in_en": "Jose",
+   "in_am": "ዮሴዕ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Joseph",
+   "in_am": "ዮሴፍ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Joshah",
+   "in_am": "ኢዮስያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Joshaviah",
+   "in_am": "ዮሻዊያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Joshibiah",
+   "in_am": "ዮሺብያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Joshua",
+   "in_am": "ኢያሱ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Josiah",
+   "in_am": "ኢዮስያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Josiphiah",
+   "in_am": "ዮሲፍያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jotham",
+   "in_am": "ኢዮአታም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jozacar",
+   "in_am": "ዮዘካር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jubal",
+   "in_am": "ዩባል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Judah",
+   "in_am": "ይሁዳ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Judas",
+   "in_am": "ይሁዳ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Judith",
+   "in_am": "ዮዲት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Julia",
+   "in_am": "ዩልያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Julius",
+   "in_am": "ዩልዮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jupiter",
+   "in_am": "ድያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Justus",
+   "in_am": "ኢዮስጦስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Jemal",
+   "in_am": "ጀማል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Kadmiel",
+   "in_am": "ቀድምኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Kallai",
+   "in_am": "ቃላይ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Kareah",
+   "in_am": "ቃሬያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kedar",
+   "in_am": "ቄዳር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kedemah",
+   "in_am": "ቄድማ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Keilah",
+   "in_am": "ቅዒላ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Kelita",
+   "in_am": "ቆሊጣስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kemuel",
+   "in_am": "ቀሙኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kenan",
+   "in_am": "ቃይናን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kenani",
+   "in_am": "ክናኒ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kenaniah",
+   "in_am": "ክናንያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kenaz",
+   "in_am": "ቄኔዝ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Keran",
+   "in_am": "ክራን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Keren",
+   "in_am": "ቂራስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Keros",
+   "in_am": "ኬራስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Keturah",
+   "in_am": "ኬጡራ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Keziah",
+   "in_am": "ቃስያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Kish",
+   "in_am": "ቂስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Kishi",
+   "in_am": "ቂሳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Kislon",
+   "in_am": "ኪስሎን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Kolaiah",
+   "in_am": "ቆላያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Korah",
+   "in_am": "ቆሬ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Kore",
+   "in_am": "ቆሬ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Koz",
+   "in_am": "ቆጽ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kagnew",
+   "in_am": "ቃኘው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kassahun",
+   "in_am": "ካሳሁን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kassaye",
+   "in_am": "ካሳዬ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kebede",
+   "in_am": "ከበደ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kebron",
+   "in_am": "ኬብሮን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kefyalew",
+   "in_am": "ከፍያለው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ketema",
+   "in_am": "ከተማሀ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kidus",
+   "in_am": "ቅዱስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kifle",
+   "in_am": "ክፍሌ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kiros",
+   "in_am": "ኪሮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Kirubel",
+   "in_am": "ኪሩቤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Khalid",
+   "in_am": "ካሊድ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Kalkidan",
+   "in_am": "ቃልኪዳን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Kelemua",
+   "in_am": "ቀለሟ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Kidist",
+   "in_am": "ቅድስት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Kokebe",
+   "in_am": "ኮከቤ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Konjit",
+   "in_am": "ቆንጅት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Laban",
+   "in_am": "ላባ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Lael",
+   "in_am": "ዳኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Lahmi",
+   "in_am": "ለሕሚ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Laish",
+   "in_am": "ለሌሳ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Lamech",
+   "in_am": "ላሜሕ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Lazarus",
+   "in_am": "አልዓዛር"
+ },
+ {
+   "gender": "f",
+   "in_en": "Leah",
+   "in_am": "ልያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Lemuel",
+   "in_am": "ልሙኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Levi",
+   "in_am": "ሌዊ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Likhi",
+   "in_am": "ሊቅሒ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Linus",
+   "in_am": "ሊኖስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Lois",
+   "in_am": "ሎይድ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Lot",
+   "in_am": "ሎጥ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Lotan",
+   "in_am": "ሎጣን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Lucius",
+   "in_am": "ሉክዮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Luke",
+   "in_am": "ሉቃስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Lydia",
+   "in_am": "ልድያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Lysias",
+   "in_am": "ሉስዮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Lake",
+   "in_am": "ላቀ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Legesse",
+   "in_am": "ለገሰ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Lemma",
+   "in_am": "ለማ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Leul",
+   "in_am": "ልኡል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Liku",
+   "in_am": "ሊቁ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Lidet",
+   "in_am": "ልደት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Lidiya",
+   "in_am": "ሊዲያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Lielt",
+   "in_am": "ልዕልት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Liya",
+   "in_am": "ሊያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Liyu",
+   "in_am": "ልዩ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Maasai",
+   "in_am": "መዕሣይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Maaziah",
+   "in_am": "መዓዝያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Mahalia",
+   "in_am": "ማህለህ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Mahalath",
+   "in_am": "ማዕሌት"
+ },
+ {
+   "gender": "e",
+   "in_en": "Mahli",
+   "in_am": "ሞሖሊ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mahlon",
+   "in_am": "መሐሎን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Maki",
+   "in_am": "ማኪ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Malachi",
+   "in_am": "ሚልክያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Malcam",
+   "in_am": "ማልካም"
+ },
+ {
+   "gender": "e",
+   "in_en": "Malchiah",
+   "in_am": "መልክያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Malchus",
+   "in_am": "ማልኮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Malkishua",
+   "in_am": "ሜልኪሳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Malkiel",
+   "in_am": "መልኪኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Manoah",
+   "in_am": "ማኑሄ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Mara",
+   "in_am": "ማራ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Mareshah",
+   "in_am": "መሪሳ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mark",
+   "in_am": "ማርቆስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Marsena",
+   "in_am": "ማሌሴዓር"
+ },
+ {
+   "gender": "f",
+   "in_en": "Martha",
+   "in_am": "ማርታ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Mary",
+   "in_am": "ማርያም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mattaniah",
+   "in_am": "ማታንያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mattathias",
+   "in_am": "ማታትዩ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Matthew",
+   "in_am": "ማቴዎስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Matthias",
+   "in_am": "ማትያስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Melatiah",
+   "in_am": "መልጥያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Melchiah",
+   "in_am": "መልክያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Melech",
+   "in_am": "ሜሌክ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Melki",
+   "in_am": "ሚልኪ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Merab",
+   "in_am": "ሜሮብ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Meraiah",
+   "in_am": "ምራያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Meres",
+   "in_am": "ሜሬስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Mesha",
+   "in_am": "ሞሳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Meshullam",
+   "in_am": "ሜሶላም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Methuselah",
+   "in_am": "ማቱሳላ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Mica",
+   "in_am": "ሚካ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Micah",
+   "in_am": "ሚካ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Micaiah",
+   "in_am": "ሚክያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Michael",
+   "in_am": "ሚካኤል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Michal",
+   "in_am": "ሜልኮል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Mijamin",
+   "in_am": "ሚያሚን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Milcah",
+   "in_am": "ሚልካ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Miriam",
+   "in_am": "ማሪያም"
+ },
+ {
+   "gender": "e",
+   "in_en": "Mishael",
+   "in_am": "ሚሳኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Misham",
+   "in_am": "ሚሻም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mizpah",
+   "in_am": "መሴፋር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mizraim",
+   "in_am": "ምጽራይም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mordecai",
+   "in_am": "መርዶክዮስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Moriah",
+   "in_am": "ሞሪያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Moses",
+   "in_am": "ሙሴ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Moza",
+   "in_am": "ሞዳን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mamo",
+   "in_am": "ማሞ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mamush",
+   "in_am": "ማሙሽ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Markos",
+   "in_am": "ማርቆስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Matheos",
+   "in_am": "ማትዮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mebratu",
+   "in_am": "መብራቱ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Medhin",
+   "in_am": "መድህን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mehari",
+   "in_am": "መሀሪ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mekbib",
+   "in_am": "መክብብ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mekonnen",
+   "in_am": "መኮንን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mekuriya",
+   "in_am": "መኩሪያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Melaku",
+   "in_am": "መላኩ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Menelik",
+   "in_am": "ሚንሊክ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mengistu",
+   "in_am": "መንግስቱ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mersha",
+   "in_am": "መርሻ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mesay",
+   "in_am": "መሳይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mesfin",
+   "in_am": "መስፍን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Metaferia",
+   "in_am": "መታፈሪያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mezgebe",
+   "in_am": "መዝገበ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Michael",
+   "in_am": "ሚኬኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mikias",
+   "in_am": "ሚኪያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Million",
+   "in_am": "ሚሊዮን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mintesnot",
+   "in_am": "ምንተስኖት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mitiku",
+   "in_am": "ምትኩ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Moges",
+   "in_am": "ሞገስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mohammed",
+   "in_am": "መሀመድ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Molalign",
+   "in_am": "ሞላልኝ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Molla",
+   "in_am": "ሞላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mulugeta",
+   "in_am": "ሙሉጌታ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Muluken",
+   "in_am": "ሙሉቀን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Mussie",
+   "in_am": "ሙሴ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Mahder",
+   "in_am": "ማህደር"
+ },
+ {
+   "gender": "f",
+   "in_en": "Mahlet",
+   "in_am": "ማህሌት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Makeda",
+   "in_am": "ማክዳ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Maraki",
+   "in_am": "ማራኪ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Maramawit",
+   "in_am": "ማርያማዊት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Martha",
+   "in_am": "ማርታ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Meaza",
+   "in_am": "መአዛ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Meheret",
+   "in_am": "ምህረት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Mekdes",
+   "in_am": "መቅደስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Melat",
+   "in_am": "ሜላት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Menbere",
+   "in_am": "መንበረ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Menna",
+   "in_am": "መና"
+ },
+ {
+   "gender": "f",
+   "in_en": "Mentewab",
+   "in_am": "ምንትዋብ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Meron",
+   "in_am": "ሜሮን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Meselu",
+   "in_am": "መሰሉ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Meskerem",
+   "in_am": "መስከረም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Messeret",
+   "in_am": "መሰረት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Mestewat",
+   "in_am": "መስተዋት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Metasebiya",
+   "in_am": "መታሰቢያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Mignote",
+   "in_am": "ምኞቴ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Mimi",
+   "in_am": "ሚሚ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Misgana",
+   "in_am": "ምስጋና"
+ },
+ {
+   "gender": "f",
+   "in_en": "Misrak",
+   "in_am": "ምስራቅ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Mulu",
+   "in_am": "ሙሉ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Muluemebet",
+   "in_am": "ሙሉእመቤት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Muna",
+   "in_am": "ሙና"
+ },
+ {
+   "gender": "f",
+   "in_en": "Naama",
+   "in_am": "ናዕማ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Naarah",
+   "in_am": "ነዕራ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nabal",
+   "in_am": "ናባል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Nahamani",
+   "in_am": "ነሐማኒ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Nahash",
+   "in_am": "ናዖስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Nahbi",
+   "in_am": "ናቢ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nahshon",
+   "in_am": "ነአሶን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nahum",
+   "in_am": "ናሆም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Naomi",
+   "in_am": "ኑኃሚ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Naphtali",
+   "in_am": "ንፍታሌ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Narcissus",
+   "in_am": "ንርቀሱ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nathan",
+   "in_am": "ናታን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nathaniel",
+   "in_am": "ናትናኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Neariah",
+   "in_am": "ነዓርያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Nebai",
+   "in_am": "ኖባይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nebo",
+   "in_am": "ናባው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Neco",
+   "in_am": "ኒካዑ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nedabiah",
+   "in_am": "ነዳብያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nehemiah",
+   "in_am": "ነህምያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Nehusuhta",
+   "in_am": "ኔሰታ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Nekoda",
+   "in_am": "ኔቆዳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Nemual",
+   "in_am": "ነሙኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Neri",
+   "in_am": "ኔሪ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Neariah",
+   "in_am": "ኔርያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nethaniah",
+   "in_am": "ናታንያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Neziah",
+   "in_am": "ንስያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nicodemus",
+   "in_am": "ኒቀዲሞስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nicolas",
+   "in_am": "ኒቆላዎስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nimrod",
+   "in_am": "ናምሩድ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Nimshi",
+   "in_am": "ናሜሲ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Noadiah",
+   "in_am": "ኖዓድያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Noah",
+   "in_am": "ኖኅ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nahom",
+   "in_am": "ናሆም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nathnael",
+   "in_am": "ናትናዬል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nebil",
+   "in_am": "ነቢል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nebiyou",
+   "in_am": "ነብዩ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nebyat",
+   "in_am": "ነብያት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nega",
+   "in_am": "ነጋ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Negash",
+   "in_am": "ነጋሽ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Niguse",
+   "in_am": "ንጉሴ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Nolawi",
+   "in_am": "ኖላዊ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Naomi",
+   "in_am": "ናኦሚ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Nardos",
+   "in_am": "ናርዶስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Negassi",
+   "in_am": "ነጋሲ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Netsanet",
+   "in_am": "ነፃነት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Nigist",
+   "in_am": "ንግስት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Nunu",
+   "in_am": "ኑኑ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Obadiah",
+   "in_am": "አብድዩ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Obal",
+   "in_am": "ዖባል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Oholah",
+   "in_am": "ኦሖላ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Oholibah",
+   "in_am": "ኦሖሊባ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Olympas",
+   "in_am": "አልንጦ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Omar",
+   "in_am": "ኦማር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Omri",
+   "in_am": "ዘንበሪ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Oprah",
+   "in_am": "ዖፍራ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Oren",
+   "in_am": "ኦሬን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Orpah",
+   "in_am": "ዖርፍ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Othniel",
+   "in_am": "ጎቶንያል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ozem",
+   "in_am": "ኦጼም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ozni",
+   "in_am": "ኤሰቦን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Paltiel",
+   "in_am": "ፈልጢ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Paseah",
+   "in_am": "ፋሴሐ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Paul",
+   "in_am": "ጳውሎስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Pedaiah",
+   "in_am": "ፈዳያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Pekah",
+   "in_am": "ፋቁሔ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Pelatiah",
+   "in_am": "ፈላጥያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Peleth",
+   "in_am": "ፋሌት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Peninnah",
+   "in_am": "ፍናና"
+ },
+ {
+   "gender": "f",
+   "in_en": "Penuel",
+   "in_am": "ፋኑኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Perez",
+   "in_am": "ፍሬስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Persis",
+   "in_am": "ጠርሲዳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Peter",
+   "in_am": "ጴጥሮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Pethuel",
+   "in_am": "ባቱኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Phanuel",
+   "in_am": "ፋኑኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Philemon",
+   "in_am": "ፊልሞና"
+ },
+ {
+   "gender": "m",
+   "in_en": "Philip",
+   "in_am": "ፊልጶስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Phineas",
+   "in_am": "ፊንሐስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Phoebe",
+   "in_am": "ፌቤ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Pilate",
+   "in_am": "ጵላጦስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Priscilla",
+   "in_am": "ጵርቅላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Paulos",
+   "in_am": "ጳውሎስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Petros",
+   "in_am": "ፔጥሮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Quartus",
+   "in_am": "ቁአስጥሮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Raamah",
+   "in_am": "ራዕማ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Raamiah",
+   "in_am": "ረዓምያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Rachel",
+   "in_am": "ራሔል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Ramiah",
+   "in_am": "ራምያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Rapha",
+   "in_am": "ራፋ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Rebekah",
+   "in_am": "ርብቃ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Rei",
+   "in_am": "ሬሲ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Remaliah",
+   "in_am": "ሮሜልዩ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Rephael",
+   "in_am": "ራፋኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Rephan",
+   "in_am": "ሬፋን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Resheph",
+   "in_am": "ሬሴፍ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Reuben",
+   "in_am": "ሮቤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Reuel",
+   "in_am": "ራጉኤል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Reumah",
+   "in_am": "ሬሕማ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Rezia",
+   "in_am": "ሪጽያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Rezin",
+   "in_am": "ረአሶን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Rezon",
+   "in_am": "ሬዞን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Rhesa",
+   "in_am": "ሬሰ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Rhoda",
+   "in_am": "ሮዴ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Ribai",
+   "in_am": "ሪባይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Rimmon",
+   "in_am": "ሬሞን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Rinnah",
+   "in_am": "ሪና"
+ },
+ {
+   "gender": "f",
+   "in_en": "Rizpah",
+   "in_am": "ሪጽፋ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Rosh",
+   "in_am": "ሮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Rufus",
+   "in_am": "ሩፎስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Ruth",
+   "in_am": "ሩት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Redwan",
+   "in_am": "ሬድዋን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Rebka",
+   "in_am": "ርብቃ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Rediet",
+   "in_am": "ረዴት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Rekik",
+   "in_am": "ረቂቅ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Roman",
+   "in_am": "ሮማን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Roza",
+   "in_am": "ሮዛ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sabteca",
+   "in_am": "ሰብታ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sakia",
+   "in_am": "ሻክያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Salah",
+   "in_am": "ሳላ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Salma",
+   "in_am": "ሰልሞ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Salome",
+   "in_am": "ሰሎሜ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Salu",
+   "in_am": "ሰሉ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Samlah",
+   "in_am": "ሠምላ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Samson",
+   "in_am": "ሶምሶን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Samuel",
+   "in_am": "ሳሙኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Saph",
+   "in_am": "ሳፍ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Sapphira",
+   "in_am": "ሰጵራ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Sarah",
+   "in_am": "ሣራ"
+ },
+ {
+   "gender": "NA",
+   "in_en": "Sarai",
+   "in_am": "ሦራ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Saraph",
+   "in_am": "ሣራፍ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Sargon",
+   "in_am": "ሳርጎን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Satan",
+   "in_am": "ሰይጣን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Saul",
+   "in_am": "ሳኦል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sceva",
+   "in_am": "አስቄዋ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Seba",
+   "in_am": "ሳባ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Semakiah",
+   "in_am": "ሰማክያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Semei",
+   "in_am": "ሴሜይ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Senaah",
+   "in_am": "ሴናዓ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Seraiah",
+   "in_am": "ሠራያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Sergius",
+   "in_am": "ሰርግዮስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Seth",
+   "in_am": "ሴት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Sethur",
+   "in_am": "ሰቱር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Shadrach",
+   "in_am": "ሲድራቅ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Shallum",
+   "in_am": "ሰሎም"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shalmai",
+   "in_am": "ሰምላይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Shalman",
+   "in_am": "ሰልምናሶር"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shama",
+   "in_am": "ሻማ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shamariah",
+   "in_am": "ሰማራያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shamir",
+   "in_am": "ሻሚር"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shamma",
+   "in_am": "ሳማ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shammai",
+   "in_am": "ሸማይ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shammua",
+   "in_am": "ሰሙኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shapham",
+   "in_am": "ሳፋም"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shaphan",
+   "in_am": "ሳፋን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sharai",
+   "in_am": "ሸራይ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sharezer",
+   "in_am": "ሳራሳር"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sharon",
+   "in_am": "ሳሮን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shashai",
+   "in_am": "ሴሴይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Shashak",
+   "in_am": "ሻሻቅ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sheal",
+   "in_am": "ሸዓል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shealtiel",
+   "in_am": "ሰላትያል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sheariah",
+   "in_am": "ሽዓርያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Sheba",
+   "in_am": "ሳባ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shebaniah",
+   "in_am": "ሰበንያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sheber",
+   "in_am": "ሸቤር"
+ },
+ {
+   "gender": "m",
+   "in_en": "Shebna",
+   "in_am": "ሳምና"
+ },
+ {
+   "gender": "m",
+   "in_en": "Shecaniah",
+   "in_am": "ሴኬንያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Shechem",
+   "in_am": "ሴኬም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Sheerah",
+   "in_am": "ሲእራ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shelemiah",
+   "in_am": "ሰሌምያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shelomi",
+   "in_am": "ሴሌሚ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shelumiel",
+   "in_am": "ሰለሚኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Shem",
+   "in_am": "ሴም"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shema",
+   "in_am": "ሽማዕ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shemaah",
+   "in_am": "ሽማዓ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shemaiah",
+   "in_am": "ሳማያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shemariah",
+   "in_am": "ሰማራያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shemeber",
+   "in_am": "ሰሜበር"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shemida",
+   "in_am": "ሸሚዳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shemuel",
+   "in_am": "ሰላሚኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shenazar",
+   "in_am": "ሼናጻር"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shephi",
+   "in_am": "ሰፎ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sherebiah",
+   "in_am": "ሰራብያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sheshai",
+   "in_am": "ሴሲ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sheva",
+   "in_am": "ሱሳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shiloh",
+   "in_am": "ሴሎ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shiloni",
+   "in_am": "ሴሎና"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shimea",
+   "in_am": "ሳሙስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shimeah",
+   "in_am": "ሳምዓ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Shimeath",
+   "in_am": "ሰምዓት"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shimei",
+   "in_am": "ሰሜኢ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shimeon",
+   "in_am": "ሸማያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shimri",
+   "in_am": "ሺምሪ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Shimrith",
+   "in_am": "ሰምዓት"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shimron",
+   "in_am": "ሺምሮን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Shiphrah",
+   "in_am": "ሲፓራ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shobai",
+   "in_am": "ሶባይ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shobal",
+   "in_am": "ሦባል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shobi",
+   "in_am": "ኡኤሰቢ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shomer",
+   "in_am": "ሾሜር"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shua",
+   "in_am": "ሱዋ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Shual",
+   "in_am": "ሹኒ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Sia",
+   "in_am": "ሲዓ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Silas",
+   "in_am": "ሲላስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Simeon",
+   "in_am": "ስምዖን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Simon",
+   "in_am": "ስምዖን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Solomon",
+   "in_am": "ሰሎሞን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Stephanas",
+   "in_am": "እስጢፋኖስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Stephen",
+   "in_am": "እስጢፋኖስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Susanna",
+   "in_am": "ሶስና"
+ },
+ {
+   "gender": "e",
+   "in_en": "Susi",
+   "in_am": "ሱሲ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Syntyche",
+   "in_am": "ሲንጤኪ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Samson",
+   "in_am": "ሳምሶን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Samuel",
+   "in_am": "ሳሙኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Sebhat",
+   "in_am": "ስብሃት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Sebsebe",
+   "in_am": "ሰብስቤ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Seid",
+   "in_am": "ሰኢድ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Seifu",
+   "in_am": "ሰይፉ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Selam",
+   "in_am": "ሰላም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Seyoum",
+   "in_am": "ስዩም"
+ },
+ {
+   "gender": "m",
+   "in_en": "Shewangizaw",
+   "in_am": "ሽዋንግዛው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Shifferaw",
+   "in_am": "ሽፈራው"
+ },
+ {
+   "gender": "m",
+   "in_en": "Shimelis",
+   "in_am": "ሽመልስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Sintayehu",
+   "in_am": "ስንታየሁ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Siraj",
+   "in_am": "ሲራጅ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Sisay",
+   "in_am": "ሲሳይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Sofonyas",
+   "in_am": "ሶፎንያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Solomon",
+   "in_am": "ሰለሞን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Surafel",
+   "in_am": "ሱራፌል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Salem",
+   "in_am": "ሳሌም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Samrawit",
+   "in_am": "ሳምራዊት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Sara",
+   "in_am": "ሳራ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Saron",
+   "in_am": "ሳሮን"
+ },
+ {
+   "gender": "f",
+   "in_en": "Seble",
+   "in_am": "ሰብለ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Seble-Wongel",
+   "in_am": "ሰብለወንጌል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Sefanit",
+   "in_am": "ሰፋኒት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Selam",
+   "in_am": "ሰላም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Selamawit",
+   "in_am": "ሰላማዊት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Semira",
+   "in_am": "ሰሚራ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Senait",
+   "in_am": "ሰናይት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Senedu",
+   "in_am": "ስንዱ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Serkadis",
+   "in_am": "ሰርክአዲስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Serkalem",
+   "in_am": "ሰርክአለም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Siham",
+   "in_am": "ሲሀም"
+ },
+ {
+   "gender": "f",
+   "in_en": "Sinetebeb",
+   "in_am": "ስነጥበብ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Sitota",
+   "in_am": "ስጦታ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Tabaliah",
+   "in_am": "ጥበልያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Tabeal",
+   "in_am": "ጣጥኤል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tabitha",
+   "in_am": "ጣቢታ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tahash",
+   "in_am": "ተሐሸ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tahpenes",
+   "in_am": "ቴቄምናስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Talmai",
+   "in_am": "ተላሚ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Talmon",
+   "in_am": "ጤልሞን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Tamah",
+   "in_am": "ቴማ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tamar",
+   "in_am": "ትዕማር"
+ },
+ {
+   "gender": "e",
+   "in_en": "Tarea",
+   "in_am": "ታሬዓ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Tarshish",
+   "in_am": "ተርሴስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Telah",
+   "in_am": "ቴላ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Tema",
+   "in_am": "ቴማ"
+ },
+ {
+   "gender": "NA",
+   "in_en": "Teman",
+   "in_am": "ቴማን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Temeni",
+   "in_am": "ቴምኒ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Teresh",
+   "in_am": "ታራ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Thaddeus",
+   "in_am": "ታዴዎስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Theophilus",
+   "in_am": "ቴዎፍሎስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Thomas",
+   "in_am": "ቶማስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tilon",
+   "in_am": "ቲሎን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Timon",
+   "in_am": "ጢሞና"
+ },
+ {
+   "gender": "m",
+   "in_en": "Timothy",
+   "in_am": "ጢሞቴዎስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tiras",
+   "in_am": "ቴራስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Tirzah",
+   "in_am": "ቲርጻ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Titus",
+   "in_am": "ቲቶ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tobiah",
+   "in_am": "ጦብያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tobijah",
+   "in_am": "ጦብያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tryphena",
+   "in_am": "ፕሮፊሞና"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tryphosa",
+   "in_am": "ጢሮፊሞሳ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tubal",
+   "in_am": "ቶቤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tadele",
+   "in_am": "ታደለ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tadesse",
+   "in_am": "ታደሰ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tamene",
+   "in_am": "ታመነ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tamrat",
+   "in_am": "ታምራት"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tarekegn",
+   "in_am": "ታረቀኝ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tarik",
+   "in_am": "ታሪክ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tariku",
+   "in_am": "ታሪኩ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Taye",
+   "in_am": "ታየ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tedla",
+   "in_am": "ተድል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tefera",
+   "in_am": "ተፈራ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Teferri",
+   "in_am": "ተፈሪ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tekeste",
+   "in_am": "ተከስተ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Temesgen",
+   "in_am": "ተመስገን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tesema",
+   "in_am": "ተሰማ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tesfaye",
+   "in_am": "ተስፋዬ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Teshome",
+   "in_am": "ተሾመ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Theodros",
+   "in_am": "ቴወድሮስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Thomas",
+   "in_am": "ቶማስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tibebu",
+   "in_am": "ጥበቡ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tilahun",
+   "in_am": "ጥላሁን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Tsegaye",
+   "in_am": "ጸጋዬ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Taitu",
+   "in_am": "ጣይቱ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tenagne",
+   "in_am": "ተናኝ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tersit",
+   "in_am": "ትርሲት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tewabech",
+   "in_am": "ተዋበች"
+ },
+ {
+   "gender": "f",
+   "in_en": "Thut",
+   "in_am": "ትሁት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tigist",
+   "in_am": "ትግስት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tinbit",
+   "in_am": "ትንቢት"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tirunesh",
+   "in_am": "ጥሩነሽ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tiruwork",
+   "in_am": "ጥሩወርቅ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tizita",
+   "in_am": "ትዝታ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tsedenia",
+   "in_am": "ፀደኒያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tsedey",
+   "in_am": "ፀደይ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tsega",
+   "in_am": "ጸጋ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tsehay",
+   "in_am": "ፀሐይ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Tsion",
+   "in_am": "ፂኦን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Uri",
+   "in_am": "ኡሪ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Uriah",
+   "in_am": "ኦርዮ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Uriel",
+   "in_am": "ኡሩኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Uzzi",
+   "in_am": "ኦዚ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Uzziah",
+   "in_am": "ዓዛርያስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Uzziel",
+   "in_am": "ዑዝኤል"
+ },
+ {
+   "gender": "e",
+   "in_en": "Vaniah",
+   "in_am": "ወንያ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Vashni",
+   "in_am": "ኢዮኤል"
+ },
+ {
+   "gender": "f",
+   "in_en": "Vashti",
+   "in_am": "እስጢ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Xerxes",
+   "in_am": "አርጤክስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zabbai",
+   "in_am": "ዘባይ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zabdi",
+   "in_am": "ዘንበሪ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zabdiel",
+   "in_am": "ዘብድኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zachariah",
+   "in_am": "ዘካርያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zalmon",
+   "in_am": "ሰልሞን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zavan",
+   "in_am": "ዛዕዋን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zaza",
+   "in_am": "ዛዛ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zebadiah",
+   "in_am": "ዝባድያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zebah",
+   "in_am": "ዛብሄል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zebedee",
+   "in_am": "ዘብዴዎስ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Zebidah",
+   "in_am": "ዘቢዳ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zebina",
+   "in_am": "ዘቢና"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zebulon",
+   "in_am": "ዛብሎን"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zechariah",
+   "in_am": "ዘካርያስ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zedekiah",
+   "in_am": "ሴዴቅያስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zemira",
+   "in_am": "ዝሚራ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zenas",
+   "in_am": "ዜማስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zephaniah",
+   "in_am": "ሶፎንያስ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zerah",
+   "in_am": "ዛራ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zerahiah",
+   "in_am": "ዘራእያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Zeresh",
+   "in_am": "ዞሳራ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zeri",
+   "in_am": "ጽሪ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Zeruiah",
+   "in_am": "ጽሩያ"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zethan",
+   "in_am": "ዜታን"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zia",
+   "in_am": "ዙኤ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zibia",
+   "in_am": "ዲብያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Zibiah",
+   "in_am": "ሳብያ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Zillah",
+   "in_am": "ሴላ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Zilpah",
+   "in_am": "ዘለፋ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zina",
+   "in_am": "ዚዛ"
+ },
+ {
+   "gender": "f",
+   "in_en": "Zippora",
+   "in_am": "ሲፓራ"
+ },
+ {
+   "gender": "e",
+   "in_en": "Zuriel",
+   "in_am": "ሱሪኤል"
+ },
+ {
+   "gender": "m",
+   "in_en": "Zurishaddai",
+   "in_am": "ሱሪሰዳይ"
+ }
+]
