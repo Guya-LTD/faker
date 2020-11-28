@@ -1,0 +1,38 @@
+[
+    {
+        "path": "post",
+        "permission_name": "Branch Creating",
+        "permission_key": "create_branch",
+        "permission_create": true,
+        "permission_read": false,
+        "permission_update": false,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Branch Reading",
+        "permission_key": "read_branch",
+        "permission_create": false,
+        "permission_read": true,
+        "permission_update": false,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Branch Updating",
+        "permission_key": "update_branch",
+        "permission_create": false,
+        "permission_read": false,
+        "permission_update": true,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Branch Deleting",
+        "permission_key": "update_branch",
+        "permission_create": false,
+        "permission_read": false,
+        "permission_update": false,
+        "permission_delete": true
+    }
+]

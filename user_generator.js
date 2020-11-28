@@ -3,7 +3,7 @@ const neatCsv = require("neat-csv");
 
 // Variables
 var no_admin_users = 10;
-var admin_password = "123456788";
+var admin_password = "admin";
 var names = {};
 var users = [];
 
