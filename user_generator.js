@@ -6,6 +6,10 @@ var no_admin_users = 10;
 var admin_password = "admin";
 var names = {};
 var users = [];
+var roles = [
+    "AD_2110", // E-commerce Admin
+    "AD_3110"  // Xpress Admin
+];
 
 // Read All Names
 try{
@@ -44,12 +48,20 @@ var generateFullName = () => {
 
 /**
  * Generating Admin Users
+ * 0 - 4 = E-commerce Admin users
+ * 5 - 10 = Xpress Admin users
  */
-for(i = 0; i < no_admin_users; i++) {
+for(i = 0; i <= no_admin_users; i++) {
+    //var uti = roles[0];
+    //if(i >= 5) uti = roles[0];
+
     admin = {
         user_fullname: generateFullName(),
         user_email: "admin" + i +"@localhost.com",
-        password: admin_password
+        identity: "admin" + i +"@localhost.com",
+        uti: i >= 5 ? roles[1] : roles[0],
+        password: admin_password,
+        pnum: ""
     }
     // Push user to users
     users.push(admin);

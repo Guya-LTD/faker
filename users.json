@@ -1,52 +1,90 @@
 [
     {
-        "user_fullname": "ጫልቱ ጢሞቴዎስ",
+        "user_fullname": "ተከስተ ሻክያ",
         "user_email": "admin0@localhost.com",
-        "password": "123456788"
+        "identity": "admin0@localhost.com",
+        "uti": "AD_2110",
+        "password": "admin",
+        "pnum": ""
     },
     {
-        "user_fullname": "ቂሮስ ብሩክ",
+        "user_fullname": "መአዛ ያዚዝ",
         "user_email": "admin1@localhost.com",
-        "password": "123456788"
+        "identity": "admin1@localhost.com",
+        "uti": "AD_2110",
+        "password": "admin",
+        "pnum": ""
     },
     {
-        "user_fullname": "ረዓምያ እሲይ",
+        "user_fullname": "መቅደስ ፌቨን",
         "user_email": "admin2@localhost.com",
-        "password": "123456788"
+        "identity": "admin2@localhost.com",
+        "uti": "AD_2110",
+        "password": "admin",
+        "pnum": ""
     },
     {
-        "user_fullname": "አሚን አቤሴሎም",
+        "user_fullname": "ሄርሞን ዳዊት",
         "user_email": "admin3@localhost.com",
-        "password": "123456788"
+        "identity": "admin3@localhost.com",
+        "uti": "AD_2110",
+        "password": "admin",
+        "pnum": ""
     },
     {
-        "user_fullname": "ጫልቱ ፍሬስ",
+        "user_fullname": "ጳውሎስ ሶስና",
         "user_email": "admin4@localhost.com",
-        "password": "123456788"
+        "identity": "admin4@localhost.com",
+        "uti": "AD_2110",
+        "password": "admin",
+        "pnum": ""
     },
     {
-        "user_fullname": "ምኞቴ ምትኩ",
+        "user_fullname": "ሲዓ ሙሴ",
         "user_email": "admin5@localhost.com",
-        "password": "123456788"
+        "identity": "admin5@localhost.com",
+        "uti": "AD_3110",
+        "password": "admin",
+        "pnum": ""
     },
     {
-        "user_fullname": "ዓና ካሳሁን",
+        "user_fullname": "ኃይለ-ስላሴ አብይ",
         "user_email": "admin6@localhost.com",
-        "password": "123456788"
+        "identity": "admin6@localhost.com",
+        "uti": "AD_3110",
+        "password": "admin",
+        "pnum": ""
     },
     {
-        "user_fullname": "ሀብቴ አመለወርቅ",
+        "user_fullname": "ኢየሱስ በጸጋ",
         "user_email": "admin7@localhost.com",
-        "password": "123456788"
+        "identity": "admin7@localhost.com",
+        "uti": "AD_3110",
+        "password": "admin",
+        "pnum": ""
     },
     {
-        "user_fullname": "ተላሚ ዮናስ",
+        "user_fullname": "ይትራን ቤድያ",
         "user_email": "admin8@localhost.com",
-        "password": "123456788"
+        "identity": "admin8@localhost.com",
+        "uti": "AD_3110",
+        "password": "admin",
+        "pnum": ""
     },
     {
-        "user_fullname": "ይስዓር ላቀ",
+        "user_fullname": "ሻሚር ተመስገን",
         "user_email": "admin9@localhost.com",
-        "password": "123456788"
+        "identity": "admin9@localhost.com",
+        "uti": "AD_3110",
+        "password": "admin",
+        "pnum": ""
+    },
+    {
+        "user_fullname": "አለምነሽ በላይነህ",
+        "user_email": "admin10@localhost.com",
+        "identity": "admin10@localhost.com",
+        "uti": "AD_3110",
+        "password": "admin",
+        "pnum": ""
     }
 ]
