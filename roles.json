@@ -3,9 +3,9 @@
         "path": "post",
         "name": "General",
         "uti": "GE_1000",
-        "permissions": {
+        "permissions": [
 
-        }
+        ]
     },
     {
         "path": "post",
