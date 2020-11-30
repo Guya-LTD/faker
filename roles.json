@@ -1,0 +1,130 @@
+[
+    {
+        "path": "post",
+        "name": "General",
+        "uti": "GE_1000",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "E-commerce - Admin",
+        "uti": "AD_2110",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "E-commerce - Customer Service",
+        "uti": "EM_2210",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "E-commerce - Identity Manager",
+        "uti": "EM_2230",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "E-commerce - Marketing Administrator",
+        "uti": "EM_2230",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "E-commerce - Warehouse Manager",
+        "uti": "EM_2240",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "E-commerce - Warehouse Clerk",
+        "uti": "EM_2250",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "E-commerce - Consumer Customer",
+        "uti": "CU_2210",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "E-commerce - Vendor Customer",
+        "uti": "CU_2220",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "Xpress - Admin",
+        "uti": "AD_3110",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "Xpress - Staff",
+        "uti": "EM_3210",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "Xpress - Delivery Guy",
+        "uti": "EM_3210",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "Xpress - Front Desk Receptionist",
+        "uti": "EM_3220",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "Xpress - Business Customer",
+        "uti": "CU_3310",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "Xpress - Personal Customer",
+        "uti": "CU_3320",
+        "permissions": {
+
+        }
+    },
+    {
+        "path": "post",
+        "name": "Xpress - Government Customer",
+        "uti": "CU_3330",
+        "permissions": {
+            
+        }
+    }
+]
