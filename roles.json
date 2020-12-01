@@ -1,129 +1,129 @@
 [
     {
         "path": "post",
-        "name": "General",
-        "uti": "GE_1000",
-        "permissions": [
+        "role_name": "General",
+        "role_uti": "GE_1000",
+        "role_permissions": [
 
         ]
     },
     {
         "path": "post",
-        "name": "E-commerce - Admin",
-        "uti": "AD_2110",
-        "permissions": {
+        "role_name": "E-commerce - Admin",
+        "role_uti": "AD_2110",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "E-commerce - Customer Service",
-        "uti": "EM_2210",
-        "permissions": {
+        "role_name": "E-commerce - Customer Service",
+        "role_uti": "EM_2210",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "E-commerce - Identity Manager",
-        "uti": "EM_2230",
-        "permissions": {
+        "role_name": "E-commerce - Identity Manager",
+        "role_uti": "EM_2230",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "E-commerce - Marketing Administrator",
-        "uti": "EM_2230",
-        "permissions": {
+        "role_name": "E-commerce - Marketing Administrator",
+        "role_uti": "EM_2230",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "E-commerce - Warehouse Manager",
-        "uti": "EM_2240",
-        "permissions": {
+        "role_name": "E-commerce - Warehouse Manager",
+        "role_uti": "EM_2240",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "E-commerce - Warehouse Clerk",
-        "uti": "EM_2250",
-        "permissions": {
+        "role_name": "E-commerce - Warehouse Clerk",
+        "role_uti": "EM_2250",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "E-commerce - Consumer Customer",
-        "uti": "CU_2210",
-        "permissions": {
+        "role_name": "E-commerce - Consumer Customer",
+        "role_uti": "CU_2210",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "E-commerce - Vendor Customer",
-        "uti": "CU_2220",
-        "permissions": {
+        "role_name": "E-commerce - Vendor Customer",
+        "role_uti": "CU_2220",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "Xpress - Admin",
-        "uti": "AD_3110",
-        "permissions": {
+        "role_name": "Xpress - Admin",
+        "role_uti": "AD_3110",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "Xpress - Staff",
-        "uti": "EM_3210",
-        "permissions": {
+        "role_name": "Xpress - Staff",
+        "role_uti": "EM_3210",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "Xpress - Delivery Guy",
-        "uti": "EM_3210",
-        "permissions": {
+        "role_name": "Xpress - Delivery Guy",
+        "role_uti": "EM_3210",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "Xpress - Front Desk Receptionist",
-        "uti": "EM_3220",
-        "permissions": {
+        "role_name": "Xpress - Front Desk Receptionist",
+        "role_uti": "EM_3220",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "Xpress - Business Customer",
-        "uti": "CU_3310",
-        "permissions": {
+        "role_name": "Xpress - Business Customer",
+        "role_uti": "CU_3310",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "Xpress - Personal Customer",
-        "uti": "CU_3320",
-        "permissions": {
+        "role_name": "Xpress - Personal Customer",
+        "role_uti": "CU_3320",
+        "role_permissions": {
 
         }
     },
     {
         "path": "post",
-        "name": "Xpress - Government Customer",
-        "uti": "CU_3330",
-        "permissions": {
+        "role_name": "Xpress - Government Customer",
+        "role_uti": "CU_3330",
+        "role_permissions": {
             
         }
     }
