@@ -1,90 +1,90 @@
 [
     {
-        "user_fullname": "ተከስተ ሻክያ",
+        "user_fullname": "በለጡ ባህሩ",
         "user_email": "admin0@localhost.com",
-        "identity": "admin0@localhost.com",
-        "uti": "AD_2110",
-        "password": "admin",
-        "pnum": ""
+        "user_identity": "admin0@localhost.com",
+        "user_uti": "AD_2110",
+        "user_password": "admin",
+        "user_pnum": ""
     },
     {
-        "user_fullname": "መአዛ ያዚዝ",
+        "user_fullname": "ሱራፌል እስራኤል",
         "user_email": "admin1@localhost.com",
-        "identity": "admin1@localhost.com",
-        "uti": "AD_2110",
-        "password": "admin",
-        "pnum": ""
+        "user_identity": "admin1@localhost.com",
+        "user_uti": "AD_2110",
+        "user_password": "admin",
+        "user_pnum": ""
     },
     {
-        "user_fullname": "መቅደስ ፌቨን",
+        "user_fullname": "ሲሳይ ዛዛ",
         "user_email": "admin2@localhost.com",
-        "identity": "admin2@localhost.com",
-        "uti": "AD_2110",
-        "password": "admin",
-        "pnum": ""
+        "user_identity": "admin2@localhost.com",
+        "user_uti": "AD_2110",
+        "user_password": "admin",
+        "user_pnum": ""
     },
     {
-        "user_fullname": "ሄርሞን ዳዊት",
+        "user_fullname": "ያእዛንያ እያሱ",
         "user_email": "admin3@localhost.com",
-        "identity": "admin3@localhost.com",
-        "uti": "AD_2110",
-        "password": "admin",
-        "pnum": ""
+        "user_identity": "admin3@localhost.com",
+        "user_uti": "AD_2110",
+        "user_password": "admin",
+        "user_pnum": ""
     },
     {
-        "user_fullname": "ጳውሎስ ሶስና",
+        "user_fullname": "በላሳን ቆጽ",
         "user_email": "admin4@localhost.com",
-        "identity": "admin4@localhost.com",
-        "uti": "AD_2110",
-        "password": "admin",
-        "pnum": ""
+        "user_identity": "admin4@localhost.com",
+        "user_uti": "AD_2110",
+        "user_password": "admin",
+        "user_pnum": ""
     },
     {
-        "user_fullname": "ሲዓ ሙሴ",
+        "user_fullname": "ቃየን ጀማል",
         "user_email": "admin5@localhost.com",
-        "identity": "admin5@localhost.com",
-        "uti": "AD_3110",
-        "password": "admin",
-        "pnum": ""
+        "user_identity": "admin5@localhost.com",
+        "user_uti": "AD_3110",
+        "user_password": "admin",
+        "user_pnum": ""
     },
     {
-        "user_fullname": "ኃይለ-ስላሴ አብይ",
+        "user_fullname": "ኦማር አርጢሞን",
         "user_email": "admin6@localhost.com",
-        "identity": "admin6@localhost.com",
-        "uti": "AD_3110",
-        "password": "admin",
-        "pnum": ""
+        "user_identity": "admin6@localhost.com",
+        "user_uti": "AD_3110",
+        "user_password": "admin",
+        "user_pnum": ""
     },
     {
-        "user_fullname": "ኢየሱስ በጸጋ",
+        "user_fullname": "ከተማሀ ዘንበሪ",
         "user_email": "admin7@localhost.com",
-        "identity": "admin7@localhost.com",
-        "uti": "AD_3110",
-        "password": "admin",
-        "pnum": ""
+        "user_identity": "admin7@localhost.com",
+        "user_uti": "AD_3110",
+        "user_password": "admin",
+        "user_pnum": ""
     },
     {
-        "user_fullname": "ይትራን ቤድያ",
+        "user_fullname": "አብዱ ያዕቆብ",
         "user_email": "admin8@localhost.com",
-        "identity": "admin8@localhost.com",
-        "uti": "AD_3110",
-        "password": "admin",
-        "pnum": ""
+        "user_identity": "admin8@localhost.com",
+        "user_uti": "AD_3110",
+        "user_password": "admin",
+        "user_pnum": ""
     },
     {
-        "user_fullname": "ሻሚር ተመስገን",
+        "user_fullname": "አውግስጦስ ኤሊዛቤት",
         "user_email": "admin9@localhost.com",
-        "identity": "admin9@localhost.com",
-        "uti": "AD_3110",
-        "password": "admin",
-        "pnum": ""
+        "user_identity": "admin9@localhost.com",
+        "user_uti": "AD_3110",
+        "user_password": "admin",
+        "user_pnum": ""
     },
     {
-        "user_fullname": "አለምነሽ በላይነህ",
+        "user_fullname": "ጎልያድ ሳምና",
         "user_email": "admin10@localhost.com",
-        "identity": "admin10@localhost.com",
-        "uti": "AD_3110",
-        "password": "admin",
-        "pnum": ""
+        "user_identity": "admin10@localhost.com",
+        "user_uti": "AD_3110",
+        "user_password": "admin",
+        "user_pnum": ""
     }
 ]

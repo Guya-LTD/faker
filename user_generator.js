@@ -58,10 +58,10 @@ for(i = 0; i <= no_admin_users; i++) {
     admin = {
         user_fullname: generateFullName(),
         user_email: "admin" + i +"@localhost.com",
-        identity: "admin" + i +"@localhost.com",
-        uti: i >= 5 ? roles[1] : roles[0],
-        password: admin_password,
-        pnum: ""
+        user_identity: "admin" + i +"@localhost.com",
+        user_uti: i >= 5 ? roles[1] : roles[0],
+        user_password: admin_password,
+        user_pnum: ""
     }
     // Push user to users
     users.push(admin);
