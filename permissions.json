@@ -35,6 +35,81 @@
         "permission_update": false,
         "permission_delete": true
     },
+
+    {
+        "path": "post",
+        "permission_name": "Cart Creating",
+        "permission_key": "create_cart",
+        "permission_create": true,
+        "permission_read": false,
+        "permission_update": false,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Cart Reading",
+        "permission_key": "read_cart",
+        "permission_create": false,
+        "permission_read": true,
+        "permission_update": false,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Cart Updating",
+        "permission_key": "update_cart",
+        "permission_create": false,
+        "permission_read": false,
+        "permission_update": true,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Cart Deleting",
+        "permission_key": "delete_cart",
+        "permission_create": false,
+        "permission_read": false,
+        "permission_update": false,
+        "permission_delete": true
+    },
+
+    {
+        "path": "post",
+        "permission_name": "Cart Item Creating",
+        "permission_key": "create_cart_item",
+        "permission_create": true,
+        "permission_read": false,
+        "permission_update": false,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Cart Item Reading",
+        "permission_key": "read_cart_item",
+        "permission_create": false,
+        "permission_read": true,
+        "permission_update": false,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Cart Item Updating",
+        "permission_key": "update_cart_item",
+        "permission_create": false,
+        "permission_read": false,
+        "permission_update": true,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Cart Item Deleting",
+        "permission_key": "delete_cart_item",
+        "permission_create": false,
+        "permission_read": false,
+        "permission_update": false,
+        "permission_delete": true
+    },
+
     {
         "path": "post",
         "permission_name": "Payment Creating",
@@ -66,6 +141,80 @@
         "path": "post",
         "permission_name": "Payment Deleting",
         "permission_key": "delete_payment",
+        "permission_create": false,
+        "permission_read": false,
+        "permission_update": false,
+        "permission_delete": true
+    },
+
+    {
+        "path": "post",
+        "permission_name": "Credential Creating",
+        "permission_key": "create_credential",
+        "permission_create": true,
+        "permission_read": false,
+        "permission_update": false,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Credential Reading",
+        "permission_key": "read_credential",
+        "permission_create": false,
+        "permission_read": true,
+        "permission_update": false,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Credential Updating",
+        "permission_key": "update_credential",
+        "permission_create": false,
+        "permission_read": false,
+        "permission_update": true,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Credential Deleting",
+        "permission_key": "delete_credential",
+        "permission_create": false,
+        "permission_read": false,
+        "permission_update": false,
+        "permission_delete": true
+    },
+
+    {
+        "path": "post",
+        "permission_name": "Role Creating",
+        "permission_key": "create_role",
+        "permission_create": true,
+        "permission_read": false,
+        "permission_update": false,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Role Reading",
+        "permission_key": "read_role",
+        "permission_create": false,
+        "permission_read": true,
+        "permission_update": false,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Role Updating",
+        "permission_key": "update_role",
+        "permission_create": false,
+        "permission_read": false,
+        "permission_update": true,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Role Deleting",
+        "permission_key": "delete_Role",
         "permission_create": false,
         "permission_read": false,
         "permission_update": false,
