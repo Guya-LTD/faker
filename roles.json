@@ -81,14 +81,6 @@
     },
     {
         "path": "post",
-        "role_name": "Xpress - Staff",
-        "role_uti": "EM_3210",
-        "role_permissions": {
-
-        }
-    },
-    {
-        "path": "post",
         "role_name": "Xpress - Delivery Guy",
         "role_uti": "EM_3210",
         "role_permissions": {

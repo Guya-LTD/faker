@@ -29,7 +29,43 @@
     {
         "path": "post",
         "permission_name": "Branch Deleting",
-        "permission_key": "update_branch",
+        "permission_key": "delete_branch",
+        "permission_create": false,
+        "permission_read": false,
+        "permission_update": false,
+        "permission_delete": true
+    },
+    {
+        "path": "post",
+        "permission_name": "Payment Creating",
+        "permission_key": "create_payment",
+        "permission_create": true,
+        "permission_read": false,
+        "permission_update": false,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Payment Reading",
+        "permission_key": "read_payment",
+        "permission_create": false,
+        "permission_read": true,
+        "permission_update": false,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Payment Updating",
+        "permission_key": "update_payment",
+        "permission_create": false,
+        "permission_read": false,
+        "permission_update": true,
+        "permission_delete": false
+    },
+    {
+        "path": "post",
+        "permission_name": "Payment Deleting",
+        "permission_key": "delete_payment",
         "permission_create": false,
         "permission_read": false,
         "permission_update": false,
