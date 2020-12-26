@@ -1,0 +1,17 @@
+[
+    {
+        "variant_type_name_en": "Size",
+        "variant_type_name_am": "መጠን",
+        "variant_type_unit": "cm"
+    },
+    {
+        "variant_type_name_en": "Color",
+        "variant_type_name_am": "ቀለም",
+        "variant_type_unit": ""
+    },
+    {
+        "variant_type_name_en": "Fabric",
+        "variant_type_name_am": "ጨርቅ",
+        "variant_type_unit": ""
+    }
+]
