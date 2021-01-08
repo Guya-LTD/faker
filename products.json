@@ -1,0 +1,54 @@
+[
+    {
+        "product_name_en": "3 5 8 Neoprene Dumbbell Set Rack Tray 32",
+        "product_name_am": "",
+        "product_description_en": "Weider Dumbbell Power Set, 3-8 Pound Pairs with Storage Tray and Exercise Chart",
+        "product_description_am": "",
+        "product_variants": [],
+        "product_category_name": "Exercise",
+        "product_image_height": 100,
+        "product_image_width": 100,
+        "product_image_priority": 1,
+        "product_image_src": "/images/product/1_barbell.jpg",
+        "product_price": 2340
+    },
+    {
+        "product_name_en": "Dumbbells 30 Pound weights 30LB dumbbell",
+        "product_name_am": "",
+        "product_description_en": "",
+        "product_description_am": "",
+        "product_variants": [],
+        "product_category_name": "Strength training",
+        "product_image_height": 100,
+        "product_image_width": 100,
+        "product_image_priority": 1,
+        "product_image_src": "/images/product/2_dumbbell.jpg",
+        "product_price": 4770
+    },
+    {
+        "product_name_en": "Suppou Jaw Exerciser Elite Purple Exerci",
+        "product_name_am": "",
+        "product_description_en": "Suppou. Brand New Tone/Tighten/ Your Face/ Neck/Strengthen.  Increase your metabolism.    Boost your energy and create a well-defined jawline best on the market    Fast Shipping.  Same Day Shipping.   Last One!!",
+        "product_description_am": "",
+        "product_variants": [],
+        "product_category_name": "Fitness accessories",
+        "product_image_height": 100,
+        "product_image_width": 100,
+        "product_image_priority": 1,
+        "product_image_src": "/images/product/3_.jpg.jpg",
+        "product_price": 840
+    },
+    {
+        "product_name_en": "Waist Trainer Sauna Belt Grey Small",
+        "product_name_am": "",
+        "product_description_en": "Waist Trainer Body Shaper Sauna Belt - It helps you to get a quicker post pregnancy recovery.  - Perfect for everyday wear, gym workout and during other sports activities. - Provides instant abdominal compression and lumbar support. - Hand Wash, Hang Dry to Maintain Shape & Elasticity. ",
+        "product_description_am": "",
+        "product_variants": [],
+        "product_category_name": "Fitness accessories",
+        "product_image_height": 100,
+        "product_image_width": 100,
+        "product_image_priority": 1,
+        "product_image_src": "/images/product/4_.jpg.jpg",
+        "product_price": 480
+    }
+]
